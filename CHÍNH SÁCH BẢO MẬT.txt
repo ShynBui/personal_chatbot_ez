@@ -1,0 +1,201 @@
+🛡️ CHÍNH SÁCH BẢO MẬT
+CÔNG TY X
+
+1. Giới thiệu chung
+Chính sách bảo mật này được ban hành bởi Công ty X (“chúng tôi” hoặc “Công ty”) nhằm quy định cách thức thu thập, sử dụng, lưu trữ và bảo vệ thông tin cá nhân (“dữ liệu”) của người dùng khi tương tác với chatbot, dịch vụ và hệ thống của Công ty.
+
+Chúng tôi cam kết bảo vệ quyền riêng tư của bạn và đảm bảo rằng dữ liệu cá nhân được xử lý một cách an toàn và minh bạch, phù hợp với quy định pháp luật hiện hành.
+
+2. Phạm vi áp dụng
+Chính sách này áp dụng cho tất cả người dùng chatbot Công ty X, bao gồm nhưng không giới hạn:
+
+Nhân viên nội bộ
+
+Đối tác kinh doanh
+
+Khách hàng sử dụng dịch vụ
+
+Bên thứ ba có liên quan
+
+Chatbot được vận hành trên nền tảng nội bộ, website chính thức, ứng dụng di động và các kênh giao tiếp trực tuyến khác do Công ty sở hữu hoặc kiểm soát.
+
+3. Thu thập dữ liệu người dùng
+Chúng tôi thu thập dữ liệu người dùng thông qua các cách sau:
+
+3.1. Thông tin người dùng cung cấp:
+Họ tên, chức danh
+
+Email, số điện thoại
+
+Thông tin công ty, phòng ban
+
+Nội dung trao đổi trong hội thoại chatbot
+
+3.2. Dữ liệu hệ thống ghi nhận:
+Địa chỉ IP
+
+Thời gian truy cập
+
+Loại thiết bị, trình duyệt
+
+Các tệp đính kèm hoặc tài liệu gửi qua chatbot (nếu có)
+
+3.3. Dữ liệu tự động thu thập:
+Cookies, session ID
+
+Thông tin hành vi duyệt web (nếu chatbot tích hợp web tracking)
+
+Chúng tôi không thu thập các thông tin nhạy cảm (ví dụ: số thẻ tín dụng, số CMND/CCCD) qua chatbot, trừ khi có thông báo riêng biệt và sự đồng ý rõ ràng của người dùng.
+
+4. Mục đích sử dụng dữ liệu
+Dữ liệu thu thập sẽ được sử dụng cho các mục đích sau:
+
+Hỗ trợ giải đáp thắc mắc và yêu cầu của người dùng
+
+Cải thiện chất lượng hội thoại và trải nghiệm chatbot
+
+Cung cấp thông tin về sản phẩm, dịch vụ của Công ty
+
+Phân tích và báo cáo nội bộ nhằm nâng cao hiệu quả dịch vụ
+
+Đảm bảo an toàn, ngăn chặn hành vi gian lận và sử dụng trái phép
+
+Chúng tôi không sử dụng dữ liệu cho mục đích quảng cáo bên ngoài nếu không có sự đồng ý riêng biệt.
+
+5. Lưu trữ và bảo vệ dữ liệu
+5.1. Phương thức lưu trữ:
+Dữ liệu được lưu trữ trên hệ thống máy chủ của Công ty hoặc các đối tác lưu trữ đạt chứng chỉ bảo mật quốc tế như ISO 27001.
+
+5.2. Thời gian lưu trữ:
+Dữ liệu sẽ được lưu trữ trong thời gian cần thiết để thực hiện các mục đích nêu trên hoặc theo quy định của pháp luật.
+
+5.3. Biện pháp bảo mật:
+Mã hóa dữ liệu khi truyền tải và lưu trữ
+
+Hạn chế truy cập nội bộ theo nguyên tắc "cần biết"
+
+Giám sát hệ thống liên tục 24/7
+
+Kiểm tra bảo mật định kỳ (pentest, vulnerability scan)
+
+6. Quyền truy cập và chỉnh sửa thông tin
+Người dùng có quyền:
+
+Yêu cầu truy cập dữ liệu cá nhân
+
+Yêu cầu chỉnh sửa dữ liệu sai lệch
+
+Yêu cầu xoá dữ liệu không cần thiết
+
+Yêu cầu hạn chế xử lý dữ liệu
+
+Để thực hiện quyền lợi này, người dùng vui lòng liên hệ qua địa chỉ email được cung cấp ở cuối tài liệu.
+
+7. Chia sẻ thông tin với bên thứ ba
+Chúng tôi chỉ chia sẻ dữ liệu với bên thứ ba trong các trường hợp:
+
+Được sự đồng ý của người dùng
+
+Đối tác cung cấp dịch vụ kỹ thuật, lưu trữ
+
+Tuân thủ yêu cầu pháp lý, cơ quan nhà nước có thẩm quyền
+
+Chúng tôi yêu cầu các bên thứ ba cam kết tuân thủ chính sách bảo mật tương đương.
+
+8. Chính sách Cookie và Tracking
+Chatbot và hệ thống của Công ty có thể sử dụng Cookies để:
+
+Ghi nhớ phiên làm việc
+
+Phân tích hành vi người dùng
+
+Cải thiện hiệu suất dịch vụ
+
+Người dùng có thể tùy chỉnh trình duyệt để từ chối hoặc xóa cookies bất cứ lúc nào.
+
+9. Bảo mật hệ thống
+Chúng tôi áp dụng các nguyên tắc bảo mật toàn diện:
+
+Phân tách môi trường test – production
+
+Quản lý khóa mã hóa (key management)
+
+Chính sách an toàn mật khẩu
+
+Kiểm soát truy cập mạng nội bộ và VPN
+
+Chính sách cập nhật và vá lỗi định kỳ
+
+10. Xử lý rủi ro vi phạm dữ liệu
+Trong trường hợp phát hiện rò rỉ hoặc vi phạm dữ liệu:
+
+Công ty sẽ điều tra và khắc phục trong vòng 72 giờ
+
+Thông báo cho người bị ảnh hưởng (nếu cần thiết)
+
+Báo cáo cơ quan quản lý theo đúng quy định
+
+11. Quyền lợi và trách nhiệm người dùng
+Người dùng có quyền:
+
+Được thông báo rõ ràng về việc thu thập và sử dụng dữ liệu
+
+Tự do từ chối cung cấp thông tin (có thể ảnh hưởng đến dịch vụ)
+
+Khiếu nại nếu cảm thấy dữ liệu bị xử lý sai quy định
+
+Người dùng có trách nhiệm:
+
+Cung cấp thông tin chính xác
+
+Không chia sẻ thông tin nhạy cảm khi không cần thiết
+
+12. Thay đổi chính sách
+Chính sách này có thể được cập nhật theo thời gian. Chúng tôi sẽ thông báo bằng cách:
+
+Gửi email
+
+Thông báo trên hệ thống chatbot hoặc website
+
+Phiên bản cập nhật sẽ ghi rõ ngày hiệu lực mới.
+
+13. Điều khoản riêng đối với Chatbot AI
+Nếu chatbot sử dụng trí tuệ nhân tạo:
+
+Câu trả lời mang tính hỗ trợ, không thay thế tư vấn chuyên môn
+
+Dữ liệu huấn luyện tuân thủ nguyên tắc bảo mật
+
+Luồng trò chuyện có thể được kiểm duyệt tự động nhằm đảm bảo an toàn
+
+14. Giải quyết khiếu nại
+Nếu có bất kỳ khiếu nại nào liên quan đến việc thu thập và xử lý dữ liệu:
+
+Người dùng có thể gửi khiếu nại qua email [email@example.com]
+
+Công ty sẽ phản hồi trong vòng 15 ngày làm việc
+
+15. Liên hệ
+Công ty X
+Phòng Pháp lý và Tuân thủ
+Email: [email@example.com]
+Điện thoại: [Phone number]
+Website: [Website URL]
+
+16. Định nghĩa thuật ngữ
+
+Thuật ngữ	Định nghĩa
+Cookie	Tệp dữ liệu nhỏ lưu trữ trên thiết bị người dùng
+Dữ liệu cá nhân	Thông tin nhận dạng cá nhân như tên, email, số điện thoại
+Chatbot	Ứng dụng phần mềm tự động tương tác với người dùng
+17. Các cam kết bổ sung
+Không thu thập dữ liệu ngoài phạm vi khai báo.
+
+Không bán hoặc cho thuê dữ liệu cá nhân.
+
+Cam kết khắc phục kịp thời nếu phát hiện vi phạm.
+
+18. Điều khoản khác
+Chính sách này được điều chỉnh theo pháp luật Việt Nam.
+
+Trong trường hợp có sự khác biệt giữa các ngôn ngữ, bản tiếng Việt sẽ được ưu tiên áp dụng.
